@@ -1,0 +1,14 @@
+.container {
+    margin: 100px 0;
+}
+
+.test1 {
+    margin: 0 2% !important;
+}
+.test2 {
+    border-bottom: 5px solid rgba(0, 0, 255, 0.5);
+    border-top: 5px solid rgba(0, 0, 255, 0.5);
+}
+.box2{
+    margin: 20px;
+}
